@@ -1,0 +1,23 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loretvi/landing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/loretvi/landing/issues"
+  },
+  "homepage": "https://github.com/loretvi/landing#readme",
+  "description": ""
+}
